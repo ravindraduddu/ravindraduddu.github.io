@@ -1,7 +1,13 @@
-:HL["/_next/static/chunks/a9feb8f721213158.css","style"]
+:HL["/_next/static/chunks/570e9bda393d29b8.css","style"]
 :HL["/_next/static/chunks/18a098628d569f06.css","style"]
 :HL["/_next/static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/team/aussie.png","image"]
 :HL["/team/nyuang.png","image"]
 :HL["/team/ashvin.png","image"]
-0:{"buildId":"nWInbMiQRTmvjJYgs7RG3","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"team","paramType":null,"paramKey":"team","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
+:HL["/team/VisaPhoto.jpeg","image"]
+:HL["/team/Gourab.jpg","image"]
+:HL["/team/vignesh.jpg","image"]
+:HL["/team/p2.png","image"]
+:HL["/team/anup.jpg","image"]
+:HL["/team/stephen.jpg","image"]
+0:{"buildId":"MccJxJCscqL1De6FNjqqg","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"team","paramType":null,"paramKey":"team","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
